@@ -1,2 +1,1 @@
-# MyApp
-its a web app
+# This is web A
